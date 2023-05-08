@@ -1,13 +1,13 @@
-<h1 align="center">Hi<img src="waving.gif" width="30">, I'm Aneesh</h1>
+<h1 align="center">Hi   <img src="waving.gif" width="35">, I'm Aneesh</h1>
 <h3 align="center">Meet me - a curious student with a tech obsession, eager to learn and explore the digital universe!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthspectre&label=Profile%20views&color=0e75b6&style=flat" alt="stealthspectre" /> </p>
 
-- <img src="smiling.gif" width="30"> I’m currently working on [CyberSec-Research-Project](https://stealthspectre.github.io/CyberSec-NGIT/)
+- <img src="smiling.gif" width="20"> I’m currently working on [CyberSec-Research-Project](https://stealthspectre.github.io/CyberSec-NGIT/)
 
-- <img src="grazy.gif" width="30"> I’m currently learning **Flutter Framework**
+- <img src="grazy.gif" width="20"> I’m currently learning **Flutter Framework**
 
-- <img src="shy.gif" width="30"> Contact me **sambuaneesh@gmail.com**
+- <img src="shy.gif" width="20"> Contact me **sambuaneesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
