@@ -7,7 +7,7 @@
 
 - <img src="grazy.gif" width="20"> I’m currently learning **Flutter Framework**
 
-- <img src="shy.gif" width="20"> Contact me **sambuaneesh@gmail.com**
+- <img src="shy.gif" width="16"> Contact me **sambuaneesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
