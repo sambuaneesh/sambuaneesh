@@ -5,7 +5,7 @@
 
 - <img src="smiling.gif" width="20"> I’m currently working on [CyberSec-Research-Project](https://sambuaneesh.github.io/CyberSec-NGIT/)
 
-- <img src="grazy.gif" width="20"> I’m currently learning **Flutter Framework**
+- <img src="grazy.gif" width="20"> I’m currently learning **About DevOps**
 
 - <img src="shy.gif" width="16"> Contact me **sambuaneesh@gmail.com**
 
