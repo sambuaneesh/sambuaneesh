@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambuaneesh&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="stealthspectre" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambuaneesh&show_icons=true&locale=en&theme=codeSTACKr" alt="sambuaneesh" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambuaneesh&show_icons=true&locale=en&theme=codeSTACKr" alt="sambuaneesh" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stealthspectre&theme=codeSTACKr" alt="stealthspectre" /></p> -->
