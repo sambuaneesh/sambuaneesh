@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthspectre&label=Profile%20views&color=0e75b6&style=flat" alt="stealthspectre" /> </p>
 
-- <img src="smiling.gif" width="20"> I’m currently working on [CyberSec-Research-Project](https://sambuaneesh.github.io/CyberSec-NGIT/)
+<!-- - <img src="smiling.gif" width="20"> I’m currently working on [CyberSec-Research-Project](https://sambuaneesh.github.io/CyberSec-NGIT/)
 
 - <img src="grazy.gif" width="20"> I’m currently learning **About DevOps**
 
-- <img src="shy.gif" width="16"> Contact me **sambuaneesh@gmail.com**
+- <img src="shy.gif" width="16"> Contact me **sambuaneesh@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
