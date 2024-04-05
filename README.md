@@ -1,3 +1,4 @@
+```console
 stealthspectre@archbtw.origin:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
@@ -25,3 +26,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: sambuanee
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             ------------------
               "Lf8@@@@v              q@@@#Qa?:                 notselwyn@github
                   -!v|`              _?v!`
+```
